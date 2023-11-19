@@ -1,1 +1,1 @@
-# DOCKER
+# This repository contains the necessary files and configurations for containerizing [Your Application Name/Service]. Containerization allows you to encapsulate your application, its dependencies, and runtime environment into a container, providing consistency and portability across different environments.
